@@ -385,3 +385,18 @@ nav ul li a:hover{
 .detail .shall img{
     width: 100%;
 }
+
+.all_logo{
+    /*border: 1px solid;*/
+    width: 765px;
+    /*height: 500px;*/
+    margin: auto;
+    padding-bottom: 28px;
+    margin-bottom: 25px;
+    margin-top: 20px;
+    text-align: center;
+}
+.all_logo img{
+    width: 120px;
+    margin: 10px;
+}
